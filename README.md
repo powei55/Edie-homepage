@@ -32,9 +32,10 @@
 
 <!-- OVERVIEW -->
 
- <img width="221" alt="checkout" src="https://user-images.githubusercontent.com/94329479/222105963-486b8ca8-2b79-417a-895f-f09a42ce9584.png">
+ <img width="169" align="center" alt="edie1" src="https://user-images.githubusercontent.com/94329479/224600535-1f27d3bd-7107-4c8f-b447-b290a61345b4.png">
 
-<img width="420" alt="checkout1" src="https://user-images.githubusercontent.com/94329479/222106043-4a1b2e88-2bb6-43ef-be28-264c35f5e670.png">
+<img width="938" alt="eddie2" src="https://user-images.githubusercontent.com/94329479/224600648-f946bb0a-8d98-4fa8-b32d-78525c2ceb26.png">
+
 
 - You can find the demo on netlify
 - I learned how a developer could adopt flexbox and grid on the same projects. These projects help me a lot to think about how to place my HTML codes correctly.
