@@ -29,11 +29,11 @@ const Hero = () => {
           <div>
               <form action="">
                   <label htmlFor="email" className='text-[.8rem]'>Want us to contact you?</label><br />
-                  <div className='flex items-center'>
-                  <input className='rounded-[.8rem] border  p-2 px-7 mt-2 bg-[#F2F2F2]' type="email" id='email' placeholder='Email' />
-                      <button className='absolute ml-[14em] rounded-[.8em] mt-2'>Join</button>
+                  <div className='flex relative'>
+                    <input className=' rounded-[.8rem]  border  p-2 px-7 mt-2 bg-[#F2F2F2]' type="email" id='email' placeholder='Email' />
+                    <button className='absolute ml-[14em] rounded-[.8em] mt-2 '>Join</button>
                   </div>
-              </form>
+              </form> 
           </div>
       </div>
     </div>
