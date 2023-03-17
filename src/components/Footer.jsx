@@ -41,15 +41,15 @@ const Footer = () => {
                 </div>
            </div>
 
-            <div className='px-4 mb-[8em]'>
-                <form action="">
-                    <label htmlFor="email" className='text-[.8rem]'>Want us to contact you?</label><br />
-                    <div className='flex items-center'>
-                    <input className='rounded-[.8rem] border  p-2 px-7 mt-2 bg-[#F2F2F2]' type="email" id='email' placeholder='Email' />
-                        <button className='absolute ml-[14em] rounded-[.8em] mt-2'>Join</button>
-                    </div>
-                </form>
-            </div>
+           <div className='max-w-[400px] mb-10 '>
+              <form action="">
+                  <label htmlFor="email" className='text-[.8rem]'>Want us to contact you?</label><br />
+                  <div className='flex relative'>
+                    <input className=' rounded-[.5rem] w-[15em]  border  p-2 px-7 mt-2 bg-[#F2F2F2]' type="email" id='email' placeholder='Email' />
+                    <button className=' rounded-[.5em] mt-2 '>Join</button>
+                  </div>
+              </form> 
+          </div>
            
         </div>
           
