@@ -11,21 +11,23 @@ import {
 
 export const data = [
     {
-        id:1, job:'UI/UX Design', 
+        id:1,
+         job:'UI/UX Design', 
         info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a metus ac nulla consequat aliquet id quis turpis.',    
         Icon: HiPencil,
         color: `#27AE60`
     },
 
   {
-    id:1, job:'Front End', 
+    id:2,
+     job:'Front End', 
     Icon: HiCode, 
     info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a metus ac nulla consequat aliquet id quis turpis.',
     color: `#27AE60`
 },
 
 {
-    id:1, job:'Back End', 
+    id:3, job:'Back End', 
     Icon: HiOutlineViewList ,
     info: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis a metus ac nulla consequat aliquet id quis turpis.',
     color: `#27AE60`
