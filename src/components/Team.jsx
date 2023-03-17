@@ -14,15 +14,15 @@ const Team = () => {
                 <span className='block  text-[1rem] lg:text-[.7rem]'> consectetur adipiscing elit.</span>
             </div>
 
-            <div className='grid grid-cols-2 gap-2 md:mx-[4.5em] '>
-                <div className='max-w-[200px]'>
-                    <img className='object-cover block mt-[5em] ml-[-.5em]  rounded-[5px] ' src={ClientThree} alt="client team" />
+            <div className='grid grid-cols-2  gap-2 md:mx-[4.5em]  max-w-[300px]'>
+                <div className='max-w-[160px] mt-[4em]  '>
+                    <img className='object-cover block rounded-[5px] ' src={ClientThree} alt="client team" />
                 </div>
-                <div className='max-w-[200px]'>
-                    <img  className='object-cover block sm:ml-[-.6em]  rounded-[5px] ' src={ClientOne} alt="client team" />
+                <div className='max-w-[160px] '>
+                    <img  className='object-cover block rounded-[5px] ' src={ClientOne} alt="client team" />
                 </div>
-                <div className='max-w-[200px]'>
-                    <img className='object-cover block ml-[10.6em] mt-[-4.5em] sm:ml-[13em] lg:mt-[-5em] lg:ml-[12.5em] rounded-[5px]' src={ClientTwo} alt="client team" />
+                <div className='max-w-[160px] col-start-2 mt-[-4em]'>
+                    <img className='object-cover block  rounded-[5px]' src={ClientTwo} alt="client team" />
                 </div>
                 
             </div>
