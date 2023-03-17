@@ -11,7 +11,7 @@ const NavBar = () => {
      }
 
   return (
-    <div className='px-10  flex w-full min-h-[50px] justify-between items-center absolute z-10 '>
+    <div className='px-5  flex w-full min-h-[50px] justify-between items-center absolute z-10 '>
       
             <h2 className=''>Edie</h2>
 
@@ -35,7 +35,7 @@ const NavBar = () => {
 
             {/* Harmburger icon */}
             <div onClick={handleNav} className='sm:hidden z-10'>
-                  <FaBars size={20} className='  mr-4 cursor-pointer' />
+                  <FaBars size={20} className='  mr-2 cursor-pointer' />
             </div>
 
             <div onClick={handleNav} className={nav ? 'overflow-y-hidden md:hidden ease-in duration-300 absolute text-gray-300 left-0 top-0 w-full h-screen bg-black/90 px-4 py-7 flex flex-col' : 'absolute top-0 h-screen left-[-100%] ease-in duration-500'}>
