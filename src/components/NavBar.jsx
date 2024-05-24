@@ -11,7 +11,7 @@ const NavBar = () => {
      }
 
   return (
-    <div className='px-5  flex w-full min-h-[50px] justify-between items-center absolute z-10 '>
+    <div className='px-5 flex w-full min-h-[50px] justify-between items-center absolute z-10 '>
       
             <h2 className=''>Edie</h2>
 

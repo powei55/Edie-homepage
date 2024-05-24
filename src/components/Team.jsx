@@ -5,7 +5,7 @@ import ClientThree from '../assets/images/person3.png'
 
 const Team = () => {
   return (
-    <section id='client' className='flex flex-col lg:items-center px-10 pt-20 md:max-w-[1000px] md:mx-[5em] lg:flex-row lg:mx-[10em]'>
+    <section id='client' className='flex flex-col lg:items-center lg:justify-center px-10 pt-20 md:max-w-[1000px] md:mx-[5em] lg:flex-row lg:mx-[10em]'>
             <div className='mb-4  '>
                 <span className='text-red-600 lg:text-[.7em]'>Meet the team</span>
                 <span className='block text-[1.5rem]   font-semi-bold text-[#333333]'> We are chilled </span>

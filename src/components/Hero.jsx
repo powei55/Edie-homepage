@@ -3,7 +3,7 @@ import HeroImage from '../assets/images/heroImage.jpg'
 
 const Hero = () => {
   return (
-    <div className='w-full  pt-[5em] flex flex-col px-5 items-center md:max-w-[1400px] '>
+    <div className='w-full  pt-[5em] flex flex-col px-5'>
         <div className=''> 
             <div className='lg:pl-[17em]'>
                 <p className='text-[#2D9CDB] text-[.8rem] pb-2 '>Unhappy   with your website?</p>
